@@ -1,5 +1,6 @@
 #Consultations
-#Symptomes
--fievre-
--Toux-
--Maux de tete-
+ 
+liste des symptomes 
+toux 
+fievre 
+maux de tete 
